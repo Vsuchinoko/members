@@ -8,3 +8,7 @@ Please take a look at the [CONTRIBUTING.md](https://github.com/MontgomeryCollege
 Name: Max
 
 About: Major in Computer Science. 
+
+Name: Richard
+
+About: Don't know jack about Computer Science, but is the Club President.
